@@ -32,9 +32,10 @@ npm run dev
 
 ```
 
-## \*\* TO run the docusaurus document
+## \*\* TO run the docusaurus document ,please come out from the web-app folder
 
 ```sh
+cd Crptoprice-tracker
 cd docs
 cd docs
 npm run start
