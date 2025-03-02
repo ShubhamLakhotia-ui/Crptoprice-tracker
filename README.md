@@ -17,3 +17,25 @@
 git clone https://github.com/ShubhamLakhotia-ui/Crptoprice-tracker.git
 cd Crptoprice-tracker/web-app
 ```
+
+## \*\* Install Dependencies
+
+```sh
+npm i
+
+```
+
+## \*\* TO run the app
+
+```sh
+npm run dev
+
+```
+
+## \*\* TO run the docusaurus document
+
+```sh
+cd docs
+cd docs
+npm run start
+```

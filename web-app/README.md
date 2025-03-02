@@ -9,9 +9,21 @@
 
 ---
 
-## **📌 Setup Guide**
+## ** Setup Guide**
 
-### **1️⃣ Clone the Repository**
+### **Clone the Repository**
+
+## \*\*Install Dependencies
+
+```sh
+npm i
+```
+
+## \*\*TO run the app
+
+```sh
+npm run dev
+```
 
 ```sh
 git clone https://github.com/ShubhamLakhotia-ui/Crptoprice-tracker.git
