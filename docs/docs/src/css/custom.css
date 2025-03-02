@@ -1,0 +1,38 @@
+/* 🔥 Lighter Orange-White Theme for Documentation */
+:root {
+  --ifm-color-primary: #ffa64d; /* Lighter Orange */
+  --ifm-color-primary-dark: #ff8c1a;
+  --ifm-color-primary-darker: #e67e00;
+  --ifm-color-primary-light: #ffb366;
+  --ifm-color-primary-lighter: #ffcc99;
+  --ifm-background-color: #ffffff;
+}
+
+/* 🔥 Navbar */
+.navbar {
+  background: linear-gradient(to right, #ffa64d, #ff8c1a);
+  color: white;
+}
+
+/* 🔥 Footer */
+.footer {
+  background: #ff8c1a;
+  color: white;
+}
+
+/* 🔥 Buttons */
+.button {
+  background-color: #ffa64d; /* Lighter orange */
+  color: white;
+  border-radius: 8px;
+}
+
+.button:hover {
+  background-color: #ff8c1a;
+}
+
+/* 🔥 Code Blocks */
+pre {
+  background-color: #f5f5f5;
+  border-radius: 8px;
+}
