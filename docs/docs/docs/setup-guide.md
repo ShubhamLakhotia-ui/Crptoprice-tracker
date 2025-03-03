@@ -24,8 +24,8 @@ Before starting, ensure you have the following installed on your system:
 First, clone the repository from GitHub:
 
 ```sh
-git clone https://github.com/your-repo/crypto-price-tracker.git
-cd crypto-price-tracker
+git https://github.com/ShubhamLakhotia-ui/Crptoprice-tracker
+cd cryptoprice-tracker
 
 
 ```
